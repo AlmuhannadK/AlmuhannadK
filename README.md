@@ -1,11 +1,6 @@
-# Hello there 🙋🏻‍♂️ 
-
-### Welcome to my digital playground
+# Hello there 
 
 - 💻 Programming enthusiast
   
 - ⚙️ Problem solver
   
-- 🔭 Working on enhancing my skillset as a software developer
-
-- 📬 Feel free to contact!
